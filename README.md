@@ -7,10 +7,10 @@ Eric Ton, Electrical Engineering 2025
 erict21@vt.edu
 
 ## Repo Link
-[<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>](https://github.com/KGouttumukkala/SmartWaterBottle)
+https://github.com/KGouttumukkala/SmartWaterBottle
 
 ## Photo
-[{% include youtube.html video="miltuOLWDFQ" %}](https://helios-i.mashable.com/imagery/reviews/00QktxL2yohJEeEUA4YASoc/hero-image.fill.size_1248x702.v1650422643.png)
+https://helios-i.mashable.com/imagery/reviews/00QktxL2yohJEeEUA4YASoc/hero-image.fill.size_1248x702.v1650422643.png
 
 ## Mentor
 idk yet
