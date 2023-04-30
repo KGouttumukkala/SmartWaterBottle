@@ -1,6 +1,10 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+
+Kiran Gouttumukkala, Computer Engineering 2024
+goutt8@vt.edu
+
+Eric Ton, Electrical Engineering 2025
+erict21@vt.edu
 
 ## Repo Link
 [<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>](https://github.com/KGouttumukkala/SmartWaterBottle)
