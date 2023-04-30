@@ -3,24 +3,24 @@ Henry Forsyth, Computer Engineering Student (2024)
 rhforsythjr@vt.edu
 
 ## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
+[<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>](https://github.com/KGouttumukkala/SmartWaterBottle)
 
 ## Photo
-{% include youtube.html video="miltuOLWDFQ" %}
+[{% include youtube.html video="miltuOLWDFQ" %}](https://helios-i.mashable.com/imagery/reviews/00QktxL2yohJEeEUA4YASoc/hero-image.fill.size_1248x702.v1650422643.png)
 
 ## Mentor
-Josh Sutton, Electrical Engineering 2021
+idk yet
 
 ## Current Status
-Complete
+Development
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+The goal of the smart water bottle project is to create a device that can help users track their water intake and monitor the temperature of their water. The smart water bottle will be designed to hold hot and cold water, and will have sensors inside the cap to measure the water level, temperature, and weight. An algorithm will be designed to accurately measure the water level using either a pressure or ultrasonic sensor, and the sensors will be integrated into the smart water bottle cap. An intuitive interface will be developed to allow users to easily track their water intake, and the smart water bottle will be able to distinguish between pouring and drinking. The end result will be a convenient and useful device that can help users stay hydrated and healthy.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+The smart water bottle project provides several educational values, including learning about sensors, programming, and design. The project requires learners to select and integrate different types of sensors, such as pressure, temperature, and weight sensors, providing an opportunity to gain knowledge about how these sensors work and how to select the best sensor for a particular application. Additionally, learners will need to program the algorithm that accurately measures the water level, which can help them develop their programming skills. Finally, the project involves designing and creating a physical product, providing an opportunity to learn about design principles and manufacturing processes. Overall, the project combines several STEM (Science, Technology, Engineering, and Math) disciplines and can provide a valuable learning experience for learners of all levels.
 
 ## Tasks
 
