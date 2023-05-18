@@ -13,7 +13,7 @@ https://github.com/KGouttumukkala/SmartWaterBottle
 https://helios-i.mashable.com/imagery/reviews/00QktxL2yohJEeEUA4YASoc/hero-image.fill.size_1248x702.v1650422643.png
 
 ## Mentor
-idk yet
+Henry Forsyth
 
 ## Current Status
 Development
