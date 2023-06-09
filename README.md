@@ -6,7 +6,7 @@ goutt8@vt.edu
 Eric Ton, Electrical Engineering 2025
 erict21@vt.edu
 
-Muhammad Tahir, Electrical Engineering 2025
+Muhammad Tahir, Electrical Engineering 2024
 mtahir@vt.edu
 
 ## Repo Link
