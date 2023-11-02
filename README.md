@@ -10,7 +10,7 @@ Ryan Pham, Electrical Engineering 2025
 ryanpham757@vt.edu
 
 Niloy Neogi, Computer Engineering 2024
-niloy@vt.ued
+niloy@vt.edu
 
 ## Repo Link
 https://github.com/KGouttumukkala/SmartWaterBottle
