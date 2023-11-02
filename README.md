@@ -3,8 +3,11 @@
 Kiran Gouttumukkala, Computer Engineering 2024
 goutt8@vt.edu
 
-Eric Ton, Electrical Engineering 2025
-erict21@vt.edu
+Junior Bonsu, Computer Engineering 2025
+juniorbonsu@vt.edu
+
+Ryan Pham, Electrical Engineering 2025
+ryanpham757@vt.edu
 
 ## Repo Link
 https://github.com/KGouttumukkala/SmartWaterBottle
